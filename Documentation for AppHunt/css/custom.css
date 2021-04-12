@@ -1,0 +1,269 @@
+/* ========[Header section]===========[START]========== */
+
+
+/* ========[Benner section]===========[START]========== */
+
+
+/* ========[Service section]===========[START]========== */
+.service{
+    height: auto;
+    width: 100%;
+    padding: 100px 0;
+    position: relative;
+}
+.service .service-box{
+    position: relative;
+	width: 100%;
+	height: 40vh;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+.service .service-box .service-body{
+    padding: 20px;
+}
+.service .service-box .service-body .service-icon{
+    height: 20px;
+    width: 20px;
+    padding-left: 110px;
+}
+.service .service-box .service-body .service-text{
+    padding: 80px 0 0 0;
+}
+.service .service-box .service-body .service-h{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 35px;
+    color: #000000;
+    font-family:'Rubik', sans-serif;
+}
+.service .service-box .service-body .service-p{
+c
+}
+
+/* ========[Feature section]===========[START]========== */
+.feature{
+    height: auto;
+    width: 100%;
+    position: relative;
+    padding: 100px 0;
+    background-color: #ffffff;
+}
+.feature .feature-left{
+    padding: 50px 50px 0 0;
+}
+.feature .feature-left .feature-text{
+    text-align: right;
+
+}
+.feature .feature-left .feature-text .feature-h{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 35px;
+    color: #000000;
+    font-family:'Rubik', sans-serif;
+}
+.feature .feature-left .feature-text .feature-p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #637ea1;
+    font-family:'Rubik', sans-serif;
+}
+.feature .feature-phn .phn-pic{
+    height: 460px;
+    width: 65%;
+    background-position: 100% 100%;
+    margin-left: 40px;
+}
+.feature .feature-right{
+    padding: 50px 50px 0 0;
+}
+.feature .feature-right .feature-text-right{
+    text-align: left;
+
+}
+.feature .feature-right .feature-text-right .feature-h{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 35px;
+    color: #000000;
+    font-family:'Rubik', sans-serif;
+}
+.feature .feature-right .feature-text-right .feature-p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #637ea1;
+    font-family:'Rubik', sans-serif;
+}
+
+/* ========[About section]===========[START]========== */
+.about{
+    background-color: #ffffff;
+    position: relative;
+    height: auto;
+    width: 100%;
+    padding: 100px 0;
+}
+.about .about-left{
+    position: relative;
+}
+.about .about-left .about-phn{
+    height: 600px;
+    width: 100%;
+    background-position: 100% 100%;
+}
+.about .about-right {
+    padding: 100px 0;
+}
+.about .about-right .about-h{
+    font-size: 40px;
+    font-weight:bold;
+    line-height: 50px;
+    font-family:'Rubik', sans-serif;
+    color: #000000;
+    padding:0 0 10px 0;
+}
+.about .about-right .about-p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    color: #637ea1;
+    font-family:'Rubik', sans-serif;
+    padding:0 0 10px 0;
+}
+.about .about-right .about-button{
+    background: linear-gradient(to right, #0066ff 0%, #00cc66 100%);
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    padding:10px 10px 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+	border: 2px solid transparent;
+}
+.about .about-right .about-button span{
+    padding: 10px;
+}
+/* ========[Video section]===========[START]========== */
+
+
+/* ========[Pricing section]===========[START]========== */
+
+
+/* ========[App Screen section]===========[start]========== */
+
+
+/* ========[Counter section]===========[start]========== */
+.counter{
+    height: auto;
+    width: 100%;
+    background: linear-gradient(to right, #990099 0%, #cc6699 100%);
+    padding: 100px 0;
+}
+.counter .counter-body{
+	position: relative;
+    width: 100%;
+    text-align: center;
+}
+.counter .counter-body .counter-pic{
+	box-sizing: border-box;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-left: 75px;
+    margin-bottom: 40px;
+    padding-top: 25px;
+    background-color: #ffffff;
+}
+
+.counter .counter-body .counter-h{
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: bold;
+    font-family: sans-serif;
+    padding: 0 50px 0 0;
+}
+.counter .counter-body .counter-p{
+	font-size: 15px;
+	line-height: 25px;
+	font-weight: 500;
+	font-family: sans-serif;
+    color: #fff;
+    padding: 0 50px 0 0;
+}
+/* ========[Client-testimonials section]===========[start]========== */
+
+
+/* ========[FAQ section]===========[start]========== */
+
+
+/* ========[Download section]===========[start]========== */
+.download{
+    background-color: #0099ff;
+    position: relative;
+    height: auto;
+    width: 100%;
+    padding: 100px 0;
+    text-align: center;
+}
+/* .download .download-body .download-body{
+    
+} */
+.download .download-body .download-text{
+    padding: 20px;
+}
+.download .download-body .download-text .text-h{
+    font-size: 40px;
+    font-weight:bold;
+    line-height: 50px;
+    font-family:'Rubik', sans-serif;
+    color: #ffffff;
+    padding: 10px;
+}
+.download .download-body .download-body .download-text .text-p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    color: #ffffff;
+    font-family:'Rubik', sans-serif;
+    padding: 10px;
+}
+.download .download-body .download-button{
+    padding: 10px;
+}
+.download .download-body  .download-button .dwnld-button{
+    background-color: transparent;
+    border: medium none;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 20px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid;
+    
+}
+.download .download-body  .download-button .dwnld-button .d-icon{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 0 10px 0 0;
+}
+.download .download-body  .download-button .dwnld-button span{
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+/* ========[Blogs section]===========[start]========== */
+
+
+/* ========[Footer section]===========[start]========== */
+
+
